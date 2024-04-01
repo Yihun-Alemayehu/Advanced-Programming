@@ -1,0 +1,8 @@
+wordsd
+text
+codess
+file
+data
+test
+loop
+time
