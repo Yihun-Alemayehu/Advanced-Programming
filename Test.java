@@ -25,8 +25,8 @@ public class Test {
 
     public static void main(String[] args) {
         Test t = new Test();
-        // t.display_one();
-        // t.display_two();
+        t.display_one();
+        t.display_two();
         t.display_three();
         t.display_four();
         t.display_three();
