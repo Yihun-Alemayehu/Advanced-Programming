@@ -30,5 +30,9 @@ public class Test {
         t.display_three();
         t.display_four();
         t.display_three();
+        // t.display_two();
+        t.display_three();
+        t.display_four();
+        t.display_three();
     }
 }
