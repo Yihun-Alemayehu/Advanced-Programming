@@ -8,7 +8,7 @@ FIELD_SIZE = FIELD_W, FIELD_H = 10, 20
 FIELD_RES = FIELD_W * TILE_SIZE, FIELD_H * TILE_SIZE
 
 
-# from settings import*
+from settings import*
 import sys
 
 class App:
@@ -40,7 +40,7 @@ if __name__ == '__main__':
     app = App()
     app.run()
 
-# from settigns import *
+from settigns import *
 import math
 
 class Tetris:
